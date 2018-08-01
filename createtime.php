@@ -30,6 +30,6 @@ fclose($fp);				// close file
 
 // You have to create a HISTORY file first 
 // Then you can try : localhost/createtime.php?id=yourdata (you need to mention about your port)
-// You can see my example in another github file :D
+// You can see my example in the other github file :D
 ?>
 
