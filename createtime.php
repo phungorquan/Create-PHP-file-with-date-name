@@ -28,7 +28,7 @@ else					// ELSE success
 fwrite($fp,"\r\n");			// \r\n
 fclose($fp);				// close file
 
-// You have to create a HISTORY file first 
+// You have to create a HISTORY file first or you can check the available direct (if not -> create , else keep moving)
 // Then you can try : localhost/createtime.php?id=yourdata (you need to mention about your port)
 // You can see my example in the other github file :D
 ?>
